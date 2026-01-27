@@ -1,11 +1,11 @@
 # Financial Risk Analysis with Python
 
-## 📌 Overview
+## Overview
 This project was developed as part of a simulated Financial Data Analyst internship at Goldman Sachs. The objective is to analyze customer transactional behavior, evaluate account performance, and identify potential financial risks using Python-based data analytics and machine learning techniques.
 
 ---
 
-## 📂 Dataset Information
+## Dataset Information
 **Dataset:** Goldman Sachs Financial Transactional Data
 
 ### Dataset Contains:
@@ -21,7 +21,7 @@ This project was developed as part of a simulated Financial Data Analyst interns
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 - Clean and consolidate structured financial data using Python  
 - Perform Exploratory Data Analysis  
 - Build customer financial behavior profiles  
@@ -31,7 +31,7 @@ This project was developed as part of a simulated Financial Data Analyst interns
 
 ---
 
-## 🧩 Tasks Performed
+## Tasks Performed
 
 ### Task 1: Data Cleaning and Formatting
 - Removed special characters from financial fields  
@@ -85,7 +85,7 @@ This project was developed as part of a simulated Financial Data Analyst interns
 
 ---
 
-## 🛠 Tools and Technologies Used
+## Tools and Technologies Used
 - Python Programming  
 - Pandas for data handling  
 - NumPy for numerical computation  
@@ -94,7 +94,7 @@ This project was developed as part of a simulated Financial Data Analyst interns
 
 ---
 
-## 📊 Results and Deliverables
+## Results and Deliverables
 - Cleaned and consolidated financial datasets  
 - Python notebooks with reproducible workflows  
 - Analytical reports summarizing:
@@ -105,7 +105,7 @@ This project was developed as part of a simulated Financial Data Analyst interns
 
 ---
 
-## 🚀 Future Scope
+## Future Scope
 - Implement advanced ML algorithms  
 - Build real-time anomaly monitoring system  
 - Enhance customer segmentation models  
@@ -113,7 +113,7 @@ This project was developed as part of a simulated Financial Data Analyst interns
 
 ---
 
-## 👤 Author
+## Author
 **Deepanti Poonekar**
 
 ---
